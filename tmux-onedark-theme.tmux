@@ -59,7 +59,7 @@ setw "window-status-activity-attr" "none"
 setw "window-status-separator" ""
 
 set "window-style" "fg=#5c6370,bg=$onedark_black"
-set "window-active-style" "fg=$onedark_white,bg=$onedark_black"
+set "window-active-style" "fg=$onedark_white,bg=#0c0e11"
 
 set "pane-border-fg" "$onedark_white"
 set "pane-active-border-fg" "$onedark_white"
